@@ -18,6 +18,14 @@ nav ul li {
   margin-right: 1em;
 }
 
+nav ul li:hover {
+  color: rgba(61, 108, 217, 0.705)
+}
+
+nav ul li:active {
+  background-color: rgb(224, 50, 50);
+}
+
 form {
   display: flex;
   justify-content: center;

@@ -12,4 +12,4 @@ export default class Nav extends Component {
             </nav>
         )
     }
-}
+}//this shows the nav bar --- none of listed items link to any other page, it's just for display purposes

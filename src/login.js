@@ -7,7 +7,7 @@ export default class Login extends Component {
         <form className="container">
         <div className="card w-50">
                 <div className="card-header bg-dark text-white">
-                    <h3>Login:</h3>
+                    <h3>Login:</h3> 
                 </div>
                 <div>
                     <input type="text" class="form-control" id="userName" placeholder="Username"></input>
@@ -21,3 +21,4 @@ export default class Login extends Component {
         )
     }
 }
+// this is the form with username, password, and submit buttons plus the h3 header
